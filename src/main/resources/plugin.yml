@@ -1,0 +1,12 @@
+name: FP3
+version: '${project.version}'
+main: me.markoes.fp3.FP3
+author: [ Markoess ]
+api-version: 1.18
+commands:
+  setspawn:
+    description: Set the server spawnpoint
+  spawn:
+    description: Teleports the player to spawn
+  sreload:
+    description: Reloads the configuration file
